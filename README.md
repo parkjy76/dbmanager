@@ -10,7 +10,7 @@
 
 ## Requirements
 + PHP 5.3+
-+ APC(u), Memcached PHP module for caching
++ APC(u), Memcached PHP module for cache
 
 ## Features
 This library is DSN-based Database Manager.  
