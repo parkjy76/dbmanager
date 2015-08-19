@@ -32,4 +32,14 @@ interface _Interface
      * @return string
      */
     public static function getDsn( $type, $key );
+
+    /**
+     * setDsnFetchDir
+     *
+     * @static
+     * @access private
+     * @param  string
+     * @return boolean
+     */
+    public static function setDsnFetchDir( $dir );
 }
